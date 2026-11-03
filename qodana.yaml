@@ -3,7 +3,7 @@
 ####################################################################################################################
 
 version: "1.0"
-linter: qodana-cpp
+linter: qodana-dotnet
 profile:
   name: qodana.recommended
 include:
